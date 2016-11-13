@@ -7,6 +7,6 @@
 ### Group Members:
 
 | **名字**           | **github 帳號**       |
-| ------------------|:---------------------:|
-| joy               | joyfundev             |
-| 組員二             |                       |
+| joy                | joyfundev             |
+| 黃彥鈞             | onizi1224             |
+
